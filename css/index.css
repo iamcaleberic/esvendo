@@ -1,0 +1,37 @@
+#vending{
+	background-image: url(/assets/images/hero-image-vending-machine.png);
+}
+
+.grid.vending{
+	height: 630px;
+	padding: 50px;
+	background-image: url(/assets/images/ero-flower.jpg) ;
+	background-repeat: no-repeat;
+	background-position: center; 
+	background-size: 100%;
+
+}
+
+.header.cost{
+	margin-top: 200px !important;
+	margin-left: 50px !important;
+	margin-bottom: 0px !important;
+	font-size: 37px !important;
+    font-family: open-sans, sans-serif !important;
+    font-weight: 700 !important;
+    line-height:43px !important;
+}
+
+.header.small{
+	margin-top: 0px !important;
+	margin-left: 50px !important;
+	font-size: 27px !important;
+    line-height: 31px !important;
+    font-family: open-sans, sans-serif !important;
+    font-weight: 400  !important;
+}
+
+.button.cost{
+	margin-left: 50px !important;
+
+}
