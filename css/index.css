@@ -40,3 +40,53 @@
 	margin-left: 50px !important;
 
 }
+
+.who{
+	line-height: 36px;
+    color: #662D91;
+    font-size: 30px;
+    text-align: center;
+    font-family: open-sans, sans-serif;
+    font-weight: 300;
+    /*float: left;*/
+}
+
+.header.who{
+	float: none;
+	line-height: 54px;
+    font-size: 45px;
+    color: #D84286;
+    text-align: center;
+    font-family: open-sans, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.button.who{
+	margin-top: 20px !important;
+}
+/*
+.segment.who{
+	height: auto;
+}*/
+
+.segment.live{
+	height: 200px;
+	background-image: url(/assets/images/students.jpg) !important;
+	background-position: center !important;
+	background-size: 100% !important;
+	background-color: #D84286 !important;
+    opacity: 0.58 !important;
+    padding-top: 100px !important;
+}
+
+.live{
+	line-height: 43px;
+    font-size: 36px;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: open-sans, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+
+}
