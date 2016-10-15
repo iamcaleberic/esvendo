@@ -11,9 +11,13 @@
 	background-size: 100%;
 
 }
-
-.header.cost{
+.label.cost{
 	margin-top: 200px !important;
+	margin-left: 50px !important;
+	width: 350px;
+}
+.header.cost{
+	margin-top: 30px !important;
 	margin-left: 50px !important;
 	margin-bottom: 0px !important;
 	font-size: 37px !important;
@@ -32,6 +36,7 @@
 }
 
 .button.cost{
+	margin-top: 20px;
 	margin-left: 50px !important;
 
 }
