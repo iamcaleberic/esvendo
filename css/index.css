@@ -1,5 +1,6 @@
 #vending{
 	background-image: url(/assets/images/hero-image-vending-machine.png);
+	height: auto;
 }
 
 .grid.vending{
@@ -7,7 +8,7 @@
 	padding: 50px;
 	background-image: url(/assets/images/ero-flower.jpg) ;
 	background-repeat: no-repeat;
-	background-position: center; 
+	/*background-position: center; */
 	background-size: 100%;
 
 }
@@ -48,7 +49,6 @@
     text-align: center;
     font-family: open-sans, sans-serif;
     font-weight: 300;
-    /*float: left;*/
 }
 
 .header.who{
@@ -71,13 +71,14 @@
 }*/
 
 .segment.live{
-	height: 200px;
+	height: 400px;
 	background-image: url(/assets/images/students.jpg) !important;
 	background-position: center !important;
-	background-size: 100% !important;
+	/*background-size: 100% !important;*/
 	background-color: #D84286 !important;
     opacity: 0.58 !important;
-    padding-top: 100px !important;
+    padding-top: 200px !important;
+    background-repeat: none !important;
 }
 
 .live{
@@ -89,4 +90,16 @@
     font-weight: 700;
     font-style: italic;
 
+}
+.grid.patners{
+	height: 400px;
+}
+.patner.header{
+	line-height: 41px;
+    font-size: 34px;
+	color: #959595;
+    text-align: center;
+    font-family: open-sans, sans-serif;
+    font-weight: 700;
+    font-style: italic;
 }
